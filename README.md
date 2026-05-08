@@ -43,9 +43,7 @@ The dataset was prepared by:
 
 ## Tools Used
 - SQL Server
+  
 ---
 ## Author
 Gladys Nwosu
-
-## Author
-Glad Nwosu
